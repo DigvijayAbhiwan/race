@@ -1,0 +1,1870 @@
+{
+  "1": [
+    {
+      "position": 25.512551915684956,
+      "tiredness": 50,
+      "time": 0.5102510383136991,
+      "speed": 50,
+      "injured": false
+    },
+    {
+      "position": 47.34416467908882,
+      "tiredness": 100,
+      "time": 0.9468832935817764,
+      "speed": 48.740272743278915,
+      "injured": false
+    },
+    {
+      "position": 79.72390742398738,
+      "tiredness": 150,
+      "time": 1.5944781484797477,
+      "speed": 44.16363663425405,
+      "injured": false
+    },
+    {
+      "position": 95.2562290510557,
+      "tiredness": 198.58000029767945,
+      "time": 1.914204816489057,
+      "speed": 47.20597223491111,
+      "injured": false
+    },
+    {
+      "position": 121.78446744836408,
+      "tiredness": 241.06537530909944,
+      "time": 2.538613531021473,
+      "speed": 40.06276729313834,
+      "injured": false
+    },
+    {
+      "position": 129.56246069838463,
+      "tiredness": 285.1344193315516,
+      "time": 2.7151091510775336,
+      "speed": 40.086589455237394,
+      "injured": false
+    },
+    {
+      "position": 165.3055358255088,
+      "tiredness": 329.22966773231275,
+      "time": 3.525697058470005,
+      "speed": 34.28534351830464,
+      "injured": false
+    },
+    {
+      "position": 176.08896611902983,
+      "tiredness": 366.94354560244784,
+      "time": 3.811624438588617,
+      "speed": 35.043859340001674,
+      "injured": false
+    },
+    {
+      "position": 200.10124592421565,
+      "tiredness": 405.49179087644967,
+      "time": 4.434539428220596,
+      "speed": 29.811051278762758,
+      "injured": false
+    },
+    {
+      "position": 203.6381812252667,
+      "tiredness": 438.2839472830887,
+      "time": 4.5423986143378885,
+      "speed": 23.389893253929046,
+      "injured": false
+    },
+    {
+      "position": 209.41766814030134,
+      "tiredness": 464.0128298624107,
+      "time": 4.767028926098088,
+      "speed": 21.442916558329536,
+      "injured": false
+    },
+    {
+      "position": 214.6021485929547,
+      "tiredness": 487.6000380765732,
+      "time": 4.986829438544509,
+      "speed": 19.97025300958308,
+      "injured": false
+    },
+    {
+      "position": 230.6606100716004,
+      "tiredness": 509.5673163871146,
+      "time": 5.717846784054251,
+      "speed": 18.263732184161082,
+      "injured": false
+    },
+    {
+      "position": 242.06998101830575,
+      "tiredness": 529.6574217896917,
+      "time": 6.285756743612838,
+      "speed": 14.937135176420265,
+      "injured": false
+    },
+    {
+      "position": 253.54124018801184,
+      "tiredness": 546.0882704837541,
+      "time": 6.983910526372187,
+      "speed": 13.06001592918681,
+      "injured": false
+    },
+    {
+      "position": 262.38034820341784,
+      "tiredness": 560.4542880058596,
+      "time": 7.599189465145925,
+      "speed": 13.919024098187577,
+      "injured": false
+    },
+    {
+      "position": 269.1202087531588,
+      "tiredness": 575.7652145138659,
+      "time": 8.039388857796435,
+      "speed": 13.509062792517417,
+      "injured": false
+    },
+    {
+      "position": 281.05147335628675,
+      "tiredness": 590.625183585635,
+      "time": 8.84230200960069,
+      "speed": 12.273263159449968,
+      "injured": false
+    },
+    {
+      "position": 281.47272510669046,
+      "tiredness": 604.1257730610299,
+      "time": 8.8735044805129,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 284.79010612390243,
+      "tiredness": 615.1257730610299,
+      "time": 9.175084572986718,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 287.92215508663645,
+      "tiredness": 626.1257730610299,
+      "time": 9.45981629687163,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 287.9847864451148,
+      "tiredness": 637.1257730610299,
+      "time": 9.465510056733297,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 288.4306054377109,
+      "tiredness": 648.1257730610299,
+      "time": 9.50603905606021,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 292.0911449104739,
+      "tiredness": 657.1257730610299,
+      "time": 9.912765664144988,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 302.51414846260644,
+      "tiredness": 668.1257730610299,
+      "time": 10.860311441611586,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 304.6151894969777,
+      "tiredness": 679.1257730610299,
+      "time": 11.051315172008973,
+      "speed": 10.578177627690991,
+      "injured": false
+    },
+    {
+      "position": 307.5797760603984,
+      "tiredness": 690.76176845149,
+      "time": 11.306092392516577,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 309.89310299404383,
+      "tiredness": 701.76176845149,
+      "time": 11.5163948410298,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 313.97406503505874,
+      "tiredness": 712.76176845149,
+      "time": 11.887391390212974,
+      "speed": 10.71321616591901,
+      "injured": false
+    },
+    {
+      "position": 315.2087442689702,
+      "tiredness": 724.5463062340009,
+      "time": 11.992162511210504,
+      "speed": 10.176250499739169,
+      "injured": false
+    },
+    {
+      "position": 321.56846987403304,
+      "tiredness": 735.740181783714,
+      "time": 12.560305830011815,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 323.5306559687332,
+      "tiredness": 744.740181783714,
+      "time": 12.77832650720072,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 324.5198875094572,
+      "tiredness": 755.740181783714,
+      "time": 12.868256647266538,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 331.31754001059,
+      "tiredness": 766.740181783714,
+      "time": 13.48622505646043,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 333.797726460084,
+      "tiredness": 777.740181783714,
+      "time": 13.711696551868975,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 336.28947455352704,
+      "tiredness": 788.740181783714,
+      "time": 13.938219105818343,
+      "speed": 10.725984288910773,
+      "injured": false
+    },
+    {
+      "position": 343.4561560573797,
+      "tiredness": 800.5387645015159,
+      "time": 14.545637952239574,
+      "speed": 10.954906104650927,
+      "injured": false
+    },
+    {
+      "position": 353.33221402872124,
+      "tiredness": 812.5891612166319,
+      "time": 15.36520084338929,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 362.67856661379653,
+      "tiredness": 823.5891612166319,
+      "time": 16.214869260214314,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 373.40967113383016,
+      "tiredness": 834.5891612166319,
+      "time": 17.190424216581007,
+      "speed": 10,
+      "injured": true
+    },
+    {
+      "position": 378.43132824696954,
+      "tiredness": 845.5891612166319,
+      "time": 17.646938499593677,
+      "speed": 10,
+      "injured": true
+    },
+    {
+      "position": 385.6017642149389,
+      "tiredness": 856.5891612166319,
+      "time": 18.29879631486362,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 396.4244705555955,
+      "tiredness": 867.5891612166319,
+      "time": 19.28267870946877,
+      "speed": 10.763709455075338,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 879.4292416172148,
+      "time": 19.584663942966717,
+      "speed": 10,
+      "injured": false
+    }
+  ],
+  "2": [
+    {
+      "position": 55.52189034183163,
+      "tiredness": 60,
+      "time": 0.9253648390305271,
+      "speed": 60,
+      "injured": false
+    },
+    {
+      "position": 103.02219805580523,
+      "tiredness": 120,
+      "time": 1.7170366342634207,
+      "speed": 55.072512604466795,
+      "injured": false
+    },
+    {
+      "position": 103.3756656961641,
+      "tiredness": 180,
+      "time": 1.7229277616027352,
+      "speed": 53.99838406861033,
+      "injured": false
+    },
+    {
+      "position": 148.43285054183687,
+      "tiredness": 239.39822247547136,
+      "time": 2.48148892669954,
+      "speed": 58.2419811930164,
+      "injured": false
+    },
+    {
+      "position": 197.55859652280105,
+      "tiredness": 299.39822247547136,
+      "time": 3.3002513597156096,
+      "speed": 58.84130926885448,
+      "injured": false
+    },
+    {
+      "position": 216.68132394898268,
+      "tiredness": 359.39822247547136,
+      "time": 3.6189634834853033,
+      "speed": 52.526873608395974,
+      "injured": false
+    },
+    {
+      "position": 274.3765657447254,
+      "tiredness": 417.17778344470696,
+      "time": 4.617504158213903,
+      "speed": 51.75015755611701,
+      "injured": false
+    },
+    {
+      "position": 325.2954885624261,
+      "tiredness": 474.1029567564357,
+      "time": 5.511992832650832,
+      "speed": 53.515804568107285,
+      "injured": false
+    },
+    {
+      "position": 375.41283520829205,
+      "tiredness": 532.9703417813537,
+      "time": 6.363352997955469,
+      "speed": 56.98761621445824,
+      "injured": false
+    },
+    {
+      "position": 380.5265426029953,
+      "tiredness": 592.9703417813537,
+      "time": 6.448581454533857,
+      "speed": 59.01525860012187,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 652.9703417813537,
+      "time": 6.773139077817269,
+      "speed": 55.87157683032105,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 712.9703417813537,
+      "time": 6.773139077817269,
+      "speed": 52.52615252637817,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 770.7491095603697,
+      "time": 6.773139077817269,
+      "speed": 57.65197013678503,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 830.7491095603697,
+      "time": 6.773139077817269,
+      "speed": 50.64678474226434,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 886.4605727768604,
+      "time": 6.773139077817269,
+      "speed": 52.50321911355692,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 944.214113801773,
+      "time": 6.773139077817269,
+      "speed": 48.80400624700131,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 997.8985206734744,
+      "time": 6.773139077817269,
+      "speed": 43.93985488794125,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1046.2323610502099,
+      "time": 6.773139077817269,
+      "speed": 39.35233685572828,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1089.519931591511,
+      "time": 6.773139077817269,
+      "speed": 37.74508004229018,
+      "injured": true
+    },
+    {
+      "position": 400,
+      "tiredness": 1131.0395196380302,
+      "time": 6.773139077817269,
+      "speed": 40.45343321334372,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1175.5382961727084,
+      "time": 6.773139077817269,
+      "speed": 38.95556957806001,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1218.3894227085746,
+      "time": 6.773139077817269,
+      "speed": 39.431539364406405,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1261.7641160094215,
+      "time": 6.773139077817269,
+      "speed": 41.75783660544017,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1307.6977362754058,
+      "time": 6.773139077817269,
+      "speed": 40.69584934045815,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1352.4631705499098,
+      "time": 6.773139077817269,
+      "speed": 42.937211354112804,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1399.694103039434,
+      "time": 6.773139077817269,
+      "speed": 41.75664478282319,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1445.6264123005394,
+      "time": 6.773139077817269,
+      "speed": 37.246295999610425,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1486.597337900111,
+      "time": 6.773139077817269,
+      "speed": 39.69314846528222,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1530.2598012119213,
+      "time": 6.773139077817269,
+      "speed": 40.63881482047414,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1574.962497514443,
+      "time": 6.773139077817269,
+      "speed": 44.64944499717956,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1624.0768870113404,
+      "time": 6.773139077817269,
+      "speed": 48.0031248082328,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1676.8803243003965,
+      "time": 6.773139077817269,
+      "speed": 51.11323079221748,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1733.1048781718357,
+      "time": 6.773139077817269,
+      "speed": 52.96929444923419,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1791.3711020659932,
+      "time": 6.773139077817269,
+      "speed": 57.551569725699345,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1851.3711020659932,
+      "time": 6.773139077817269,
+      "speed": 55.43731277636607,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1911.3711020659932,
+      "time": 6.773139077817269,
+      "speed": 55.84526404126322,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1971.3711020659932,
+      "time": 6.773139077817269,
+      "speed": 59.4274839639656,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 2031.3711020659932,
+      "time": 6.773139077817269,
+      "speed": 57.77368464741443,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 2091.371102065993,
+      "time": 6.773139077817269,
+      "speed": 58.088154584507514,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 2151.371102065993,
+      "time": 6.773139077817269,
+      "speed": 58.017484366226036,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 2211.371102065993,
+      "time": 6.773139077817269,
+      "speed": 53.9194847263903,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 2270.682535265022,
+      "time": 6.773139077817269,
+      "speed": 49.916770780585814,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 2325.5909831236663,
+      "time": 6.773139077817269,
+      "speed": 50.80951057910867,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 2381.481444760686,
+      "time": 6.773139077817269,
+      "speed": 53.24507428228483,
+      "injured": false
+    }
+  ],
+  "3": [
+    {
+      "position": 18.9363765872671,
+      "tiredness": 52,
+      "time": 0.36416108821667503,
+      "speed": 52,
+      "injured": false
+    },
+    {
+      "position": 59.408258344201414,
+      "tiredness": 104,
+      "time": 1.1424665066192579,
+      "speed": 46.51351286152293,
+      "injured": false
+    },
+    {
+      "position": 108.38629085374947,
+      "tiredness": 155.16486414767525,
+      "time": 2.0997256203771792,
+      "speed": 49.695302347573566,
+      "injured": false
+    },
+    {
+      "position": 150.1857671191001,
+      "tiredness": 207.16486414767525,
+      "time": 2.9035617024031524,
+      "speed": 45.29245388511858,
+      "injured": false
+    },
+    {
+      "position": 189.4967997246155,
+      "tiredness": 256.9865634213057,
+      "time": 3.6925960625041916,
+      "speed": 42.228351034082316,
+      "injured": false
+    },
+    {
+      "position": 219.04369063614396,
+      "tiredness": 303.4377495587962,
+      "time": 4.328680807984594,
+      "speed": 46.31856918582856,
+      "injured": false
+    },
+    {
+      "position": 241.39014299328767,
+      "tiredness": 354.3881756632076,
+      "time": 4.767272868261964,
+      "speed": 50.039780005690346,
+      "injured": false
+    },
+    {
+      "position": 252.21562362373444,
+      "tiredness": 406.3881756632076,
+      "time": 4.975455188078248,
+      "speed": 43.594996005457325,
+      "injured": false
+    },
+    {
+      "position": 295.43414160814865,
+      "tiredness": 454.34267126921065,
+      "time": 5.876695362503188,
+      "speed": 45.361217551490725,
+      "injured": false
+    },
+    {
+      "position": 319.0553070491981,
+      "tiredness": 504.2400105758505,
+      "time": 6.350090653099499,
+      "speed": 44.181190622044284,
+      "injured": true
+    },
+    {
+      "position": 330.9887596785731,
+      "tiredness": 552.8393202600992,
+      "time": 6.5956384336524945,
+      "speed": 47.89980933666081,
+      "injured": false
+    },
+    {
+      "position": 358.6076261058128,
+      "tiredness": 604.8393202600992,
+      "time": 7.1267704803301815,
+      "speed": 49.59233349997547,
+      "injured": true
+    },
+    {
+      "position": 361.866126121856,
+      "tiredness": 656.8393202600992,
+      "time": 7.189433942177166,
+      "speed": 43.97352054586892,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 705.210192860555,
+      "time": 7.9777983405854895,
+      "speed": 39.633157616788225,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 748.8066662390221,
+      "time": 7.9777983405854895,
+      "speed": 36.79554273350686,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 789.2817632458797,
+      "time": 7.9777983405854895,
+      "speed": 33.50622085696024,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 826.138606188536,
+      "time": 7.9777983405854895,
+      "speed": 28.591820107017256,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 857.589608306255,
+      "time": 7.9777983405854895,
+      "speed": 21.702517657919753,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 881.4623777299666,
+      "time": 7.9777983405854895,
+      "speed": 23.82286734755382,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 907.6675318122758,
+      "time": 7.9777983405854895,
+      "speed": 23.315052720720967,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 928.6510792609247,
+      "time": 7.9777983405854895,
+      "speed": 15.123265928542645,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 945.2866717823216,
+      "time": 7.9777983405854895,
+      "speed": 11.106227092652356,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 957.5035215842393,
+      "time": 7.9777983405854895,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 968.5035215842393,
+      "time": 7.9777983405854895,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 979.5035215842393,
+      "time": 7.9777983405854895,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 990.5035215842393,
+      "time": 7.9777983405854895,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1001.5035215842393,
+      "time": 7.9777983405854895,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1012.5035215842393,
+      "time": 7.9777983405854895,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1023.5035215842393,
+      "time": 7.9777983405854895,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1034.5035215842393,
+      "time": 7.9777983405854895,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1045.5035215842393,
+      "time": 7.9777983405854895,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1056.5035215842393,
+      "time": 7.9777983405854895,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1067.5035215842393,
+      "time": 7.9777983405854895,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1078.5035215842393,
+      "time": 7.9777983405854895,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1089.5035215842393,
+      "time": 7.9777983405854895,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1100.5035215842393,
+      "time": 7.9777983405854895,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1111.5035215842393,
+      "time": 7.9777983405854895,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1122.5035215842393,
+      "time": 7.9777983405854895,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1133.5035215842393,
+      "time": 7.9777983405854895,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1144.5035215842393,
+      "time": 7.9777983405854895,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1155.5035215842393,
+      "time": 7.9777983405854895,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1166.5035215842393,
+      "time": 7.9777983405854895,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1177.5035215842393,
+      "time": 7.9777983405854895,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1186.5035215842393,
+      "time": 7.9777983405854895,
+      "speed": 10,
+      "injured": false
+    }
+  ],
+  "4": [
+    {
+      "position": 10.322350099825064,
+      "tiredness": 63,
+      "time": 0.16384682698135022,
+      "speed": 63,
+      "injured": false
+    },
+    {
+      "position": 52.03806053845664,
+      "tiredness": 126,
+      "time": 0.8260009609278831,
+      "speed": 56.03240503559324,
+      "injured": false
+    },
+    {
+      "position": 63.51205812457503,
+      "tiredness": 187.63564553915256,
+      "time": 1.012159432795105,
+      "speed": 61.59558723707945,
+      "injured": false
+    },
+    {
+      "position": 83.45189087982669,
+      "tiredness": 250.63564553915256,
+      "time": 1.3286647146244963,
+      "speed": 58.97201890514281,
+      "injured": false
+    },
+    {
+      "position": 124.02626117191518,
+      "tiredness": 313.63564553915256,
+      "time": 1.9727023383084406,
+      "speed": 55.14525444909731,
+      "injured": false
+    },
+    {
+      "position": 156.22885853693265,
+      "tiredness": 374.2954254331596,
+      "time": 2.503574646471876,
+      "speed": 56.0197862611066,
+      "injured": false
+    },
+    {
+      "position": 201.9027902495733,
+      "tiredness": 435.9171903203769,
+      "time": 3.2447726922635693,
+      "speed": 53.764555418992494,
+      "injured": false
+    },
+    {
+      "position": 240.80641241137002,
+      "tiredness": 495.0582012812687,
+      "time": 3.902583939141351,
+      "speed": 55.6139594652312,
+      "injured": false
+    },
+    {
+      "position": 267.35028225710334,
+      "tiredness": 556.233556693023,
+      "time": 4.336482028773588,
+      "speed": 59.449226868063036,
+      "injured": false
+    },
+    {
+      "position": 294.28507352994615,
+      "tiredness": 619.233556693023,
+      "time": 4.764018398183791,
+      "speed": 53.96115295291306,
+      "injured": false
+    },
+    {
+      "position": 334.94646838304493,
+      "tiredness": 678.5908249412274,
+      "time": 5.4490464672497705,
+      "speed": 55.88402963033939,
+      "injured": false
+    },
+    {
+      "position": 394.3454866644715,
+      "tiredness": 740.0632575346008,
+      "time": 6.415317294277847,
+      "speed": 57.47251816272466,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 803.0632575346008,
+      "time": 6.505071474206871,
+      "speed": 60.61871722701838,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 866.0632575346008,
+      "time": 6.505071474206871,
+      "speed": 58.93667594487259,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 929.0632575346008,
+      "time": 6.505071474206871,
+      "speed": 58.46388460316393,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 992.0632575346008,
+      "time": 6.505071474206871,
+      "speed": 62.75626902488587,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1055.0632575346008,
+      "time": 6.505071474206871,
+      "speed": 59.325686740768035,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1118.0632575346008,
+      "time": 6.505071474206871,
+      "speed": 62.91639800901098,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1181.0632575346008,
+      "time": 6.505071474206871,
+      "speed": 53.7106198370116,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1240.1449393553135,
+      "time": 6.505071474206871,
+      "speed": 56.019341118620595,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1301.7662145857962,
+      "time": 6.505071474206871,
+      "speed": 57.06041623797623,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1364.5326724475701,
+      "time": 6.505071474206871,
+      "speed": 53.00328697862461,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1422.836288124057,
+      "time": 6.505071474206871,
+      "speed": 51.78282888826031,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1479.7973999011435,
+      "time": 6.505071474206871,
+      "speed": 52.64524127400219,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1527.1781170477454,
+      "time": 6.505071474206871,
+      "speed": 45.46611911665441,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1577.1908480760653,
+      "time": 6.505071474206871,
+      "speed": 48.753507448468675,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1630.819706269381,
+      "time": 6.505071474206871,
+      "speed": 47.1948430690338,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1682.734033645318,
+      "time": 6.505071474206871,
+      "speed": 44.78816352845289,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1732.0010135266161,
+      "time": 6.505071474206871,
+      "speed": 48.84662695052259,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1785.732303172191,
+      "time": 6.505071474206871,
+      "speed": 51.75172819247488,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1842.6592041839133,
+      "time": 6.505071474206871,
+      "speed": 55.79690026263817,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1892.8764144202876,
+      "time": 6.505071474206871,
+      "speed": 42.61160177085084,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1939.7491763682235,
+      "time": 6.505071474206871,
+      "speed": 41.442495407067845,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1985.3359213159981,
+      "time": 6.505071474206871,
+      "speed": 37.646745202535314,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 2026.747341038787,
+      "time": 6.505071474206871,
+      "speed": 36.81519468705412,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 2059.881016257136,
+      "time": 6.505071474206871,
+      "speed": 28.928361176042777,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 2091.7022135507827,
+      "time": 6.505071474206871,
+      "speed": 29.52840461798784,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 2118.277777706972,
+      "time": 6.505071474206871,
+      "speed": 18.639000930325935,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 2138.7806787303302,
+      "time": 6.505071474206871,
+      "speed": 19.82069135735111,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 2160.5834392234165,
+      "time": 6.505071474206871,
+      "speed": 17.379746948098294,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 2179.7011608663247,
+      "time": 6.505071474206871,
+      "speed": 16.411444962145982,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 2197.7537503246854,
+      "time": 6.505071474206871,
+      "speed": 14.639858196574188,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 2213.857594340917,
+      "time": 6.505071474206871,
+      "speed": 14.08292965269909,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 2226.532231028346,
+      "time": 6.505071474206871,
+      "speed": 10,
+      "injured": false
+    }
+  ],
+  "5": [
+    {
+      "position": 46.42174538993964,
+      "tiredness": 57,
+      "time": 0.8144165857884147,
+      "speed": 57,
+      "injured": true
+    },
+    {
+      "position": 53.57622907489651,
+      "tiredness": 114,
+      "time": 0.939933843419237,
+      "speed": 56.021504255362885,
+      "injured": false
+    },
+    {
+      "position": 85.04434668607816,
+      "tiredness": 171,
+      "time": 1.4920060822118975,
+      "speed": 53.802215829805874,
+      "injured": false
+    },
+    {
+      "position": 125.65541009116946,
+      "tiredness": 228,
+      "time": 2.2044808787924466,
+      "speed": 47.247540055119835,
+      "injured": false
+    },
+    {
+      "position": 137.8701181646013,
+      "tiredness": 279.97229406063184,
+      "time": 2.4395043330040687,
+      "speed": 49.57775216499272,
+      "injured": false
+    },
+    {
+      "position": 148.25934467442548,
+      "tiredness": 334.5078214421238,
+      "time": 2.630008157000277,
+      "speed": 47.00277457692768,
+      "injured": false
+    },
+    {
+      "position": 155.4418367630107,
+      "tiredness": 386.21087347674427,
+      "time": 2.7689263021762294,
+      "speed": 49.51570803132383,
+      "injured": false
+    },
+    {
+      "position": 186.11334027647092,
+      "tiredness": 440.6781523112005,
+      "time": 3.332044272631131,
+      "speed": 52.07253282117149,
+      "injured": false
+    },
+    {
+      "position": 213.78224112147927,
+      "tiredness": 487.5434318502548,
+      "time": 3.9224365868805524,
+      "speed": 40.319138353270276,
+      "injured": true
+    },
+    {
+      "position": 246.78798968775678,
+      "tiredness": 523.8306563681981,
+      "time": 4.832005974033788,
+      "speed": 27.185481975684294,
+      "injured": false
+    },
+    {
+      "position": 260.1886499531684,
+      "tiredness": 553.7346865414509,
+      "time": 5.280128189928209,
+      "speed": 25.88039520908832,
+      "injured": false
+    },
+    {
+      "position": 280.4080429491362,
+      "tiredness": 582.203121271448,
+      "time": 5.990367203338476,
+      "speed": 19.524749241645374,
+      "injured": false
+    },
+    {
+      "position": 284.53221412749576,
+      "tiredness": 603.680345437258,
+      "time": 6.182392538946088,
+      "speed": 12.22911938092592,
+      "injured": false
+    },
+    {
+      "position": 291.60991087499355,
+      "tiredness": 617.1323767562765,
+      "time": 6.708535883371054,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 301.5611803127109,
+      "tiredness": 628.1323767562765,
+      "time": 7.6131967413453605,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 311.0325985494035,
+      "tiredness": 639.1323767562765,
+      "time": 8.474234762862865,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 311.2992314823628,
+      "tiredness": 650.1323767562765,
+      "time": 8.498474120404625,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 314.00621233168056,
+      "tiredness": 661.1323767562765,
+      "time": 8.74456328852442,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 319.36411874184216,
+      "tiredness": 672.1323767562765,
+      "time": 9.231645689448202,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 329.5228502112265,
+      "tiredness": 683.1323767562765,
+      "time": 10.155166732119508,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 333.5326531534879,
+      "tiredness": 694.1323767562765,
+      "time": 10.51969427232509,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 344.3634336707045,
+      "tiredness": 705.1323767562765,
+      "time": 11.504310682981147,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 353.00768630152277,
+      "tiredness": 716.1323767562765,
+      "time": 12.290151831237354,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 361.57918051879506,
+      "tiredness": 727.1323767562765,
+      "time": 13.069378578262107,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 370.1853450097469,
+      "tiredness": 738.1323767562765,
+      "time": 13.851757168348641,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 374.37722717500003,
+      "tiredness": 747.1323767562765,
+      "time": 14.317521853376768,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 375.52719329769843,
+      "tiredness": 758.1323767562765,
+      "time": 14.422064228167534,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 386.341655862733,
+      "tiredness": 769.1323767562765,
+      "time": 15.405197188625221,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 392.5275120237019,
+      "tiredness": 780.1323767562765,
+      "time": 15.967547748713303,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 396.5776536407409,
+      "tiredness": 791.1323767562765,
+      "time": 16.335742441171394,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 802.1323767562765,
+      "time": 16.646864837467678,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 813.1323767562765,
+      "time": 16.646864837467678,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 824.1323767562765,
+      "time": 16.646864837467678,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 835.1323767562765,
+      "time": 16.646864837467678,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 846.1323767562765,
+      "time": 16.646864837467678,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 857.1323767562765,
+      "time": 16.646864837467678,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 868.1323767562765,
+      "time": 16.646864837467678,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 879.1323767562765,
+      "time": 16.646864837467678,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 890.1323767562765,
+      "time": 16.646864837467678,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 901.1323767562765,
+      "time": 16.646864837467678,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 912.1323767562765,
+      "time": 16.646864837467678,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 921.1323767562765,
+      "time": 16.646864837467678,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 932.1323767562765,
+      "time": 16.646864837467678,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 943.1323767562765,
+      "time": 16.646864837467678,
+      "speed": 10,
+      "injured": false
+    }
+  ],
+  "6": [
+    {
+      "position": 20.068097632248413,
+      "tiredness": 59,
+      "time": 0.3401372480042104,
+      "speed": 59,
+      "injured": false
+    },
+    {
+      "position": 21.229400196349616,
+      "tiredness": 118,
+      "time": 0.35982034231101045,
+      "speed": 56.034855402043654,
+      "injured": false
+    },
+    {
+      "position": 40.56650056743385,
+      "tiredness": 177,
+      "time": 0.6875678062276924,
+      "speed": 51.92515384181635,
+      "injured": false
+    },
+    {
+      "position": 96.86512303496362,
+      "tiredness": 234.117669225998,
+      "time": 1.6732281672058777,
+      "speed": 55.595824674344534,
+      "injured": false
+    },
+    {
+      "position": 141.40394129755975,
+      "tiredness": 293.117669225998,
+      "time": 2.4281233919956433,
+      "speed": 52.45288214317577,
+      "injured": false
+    },
+    {
+      "position": 147.41479610708123,
+      "tiredness": 350.8158395834913,
+      "time": 2.5323009555523157,
+      "speed": 51.31346878878034,
+      "injured": false
+    },
+    {
+      "position": 192.50855827603635,
+      "tiredness": 407.2606552511497,
+      "time": 3.331200936632294,
+      "speed": 48.233785750421134,
+      "injured": false
+    },
+    {
+      "position": 230.46741865005083,
+      "tiredness": 460.3178195766129,
+      "time": 4.046634202932905,
+      "speed": 49.6465301383653,
+      "injured": false
+    },
+    {
+      "position": 249.2061277969553,
+      "tiredness": 514.9290027288148,
+      "time": 4.389763724494076,
+      "speed": 50.238802456038734,
+      "injured": false
+    },
+    {
+      "position": 302.6181538045915,
+      "tiredness": 570.1916854304574,
+      "time": 5.3562753630260325,
+      "speed": 53.86707506494255,
+      "injured": false
+    },
+    {
+      "position": 360.2249294802308,
+      "tiredness": 629.1916854304574,
+      "time": 6.332661391426699,
+      "speed": 55.98275977693736,
+      "injured": false
+    },
+    {
+      "position": 379.84719045423503,
+      "tiredness": 688.1916854304574,
+      "time": 6.665242085901347,
+      "speed": 58.25179613368102,
+      "injured": true
+    },
+    {
+      "position": 400,
+      "tiredness": 747.1916854304574,
+      "time": 7.006815129049905,
+      "speed": 57.88056817399414,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 806.1916854304574,
+      "time": 7.006815129049905,
+      "speed": 58.056541688767986,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 858.4425729503486,
+      "time": 7.006815129049905,
+      "speed": 50.60448762458362,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 914.1075093373905,
+      "time": 7.006815129049905,
+      "speed": 52.158399076739514,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 971.4817483218039,
+      "time": 7.006815129049905,
+      "speed": 51.3453544118945,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1027.9616381748879,
+      "time": 7.006815129049905,
+      "speed": 47.14190913959224,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1079.8177382284393,
+      "time": 7.006815129049905,
+      "speed": 46.877425206366425,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1131.3829059554423,
+      "time": 7.006815129049905,
+      "speed": 44.24199991236376,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1180.0491058590424,
+      "time": 7.006815129049905,
+      "speed": 44.071120717642486,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1228.5273386484491,
+      "time": 7.006815129049905,
+      "speed": 41.863636359858326,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1274.5773386442934,
+      "time": 7.006815129049905,
+      "speed": 42.29225509166065,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1321.09881924512,
+      "time": 7.006815129049905,
+      "speed": 42.6737008172266,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1368.0398901440692,
+      "time": 7.006815129049905,
+      "speed": 43.1300820851492,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1415.4829804377334,
+      "time": 7.006815129049905,
+      "speed": 40.201928992885385,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1459.7051023299073,
+      "time": 7.006815129049905,
+      "speed": 38.95236593125535,
+      "injured": true
+    },
+    {
+      "position": 400,
+      "tiredness": 1502.552704854288,
+      "time": 7.006815129049905,
+      "speed": 37.62164661110626,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1543.936516126505,
+      "time": 7.006815129049905,
+      "speed": 36.20973982160094,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1576.5252819659459,
+      "time": 7.006815129049905,
+      "speed": 26.484671670236587,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1605.6584208032061,
+      "time": 7.006815129049905,
+      "speed": 19.879012709461847,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1627.5253347836142,
+      "time": 7.006815129049905,
+      "speed": 12.001569646124212,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1640.7270613943508,
+      "time": 7.006815129049905,
+      "speed": 10.821052335812164,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1652.6302189637443,
+      "time": 7.006815129049905,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1663.6302189637443,
+      "time": 7.006815129049905,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1674.6302189637443,
+      "time": 7.006815129049905,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1685.6302189637443,
+      "time": 7.006815129049905,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1696.6302189637443,
+      "time": 7.006815129049905,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1707.6302189637443,
+      "time": 7.006815129049905,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1716.6302189637443,
+      "time": 7.006815129049905,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1727.6302189637443,
+      "time": 7.006815129049905,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1738.6302189637443,
+      "time": 7.006815129049905,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1749.6302189637443,
+      "time": 7.006815129049905,
+      "speed": 10,
+      "injured": false
+    },
+    {
+      "position": 400,
+      "tiredness": 1760.6302189637443,
+      "time": 7.006815129049905,
+      "speed": 10,
+      "injured": false
+    }
+  ],
+  "winner": {
+    "id": 4,
+    "speed": 10,
+    "position": 400,
+    "tiredness": 2226.532231028346,
+    "time": 6.505071474206871,
+    "maxSpeed": 63
+  }
+}
